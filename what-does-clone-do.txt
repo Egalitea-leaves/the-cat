@@ -1,0 +1,1 @@
+clone creates a mirror of your github repo on your local machine
